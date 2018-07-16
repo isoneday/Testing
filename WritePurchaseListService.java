@@ -120,7 +120,7 @@ startTimer();
 
         //initialize the TimerTask's job
         initializeTimerTask();
-
+//kjk
         //schedule the timer, to wake up every 1 second
         timer.schedule(timerTask, 1000, 1000); //
     }
